@@ -1,7 +1,7 @@
 # Grav Flex Snippets
 
 
-> A curated list of Flex Snippets for Grav CMS
+A curated list of Flex Snippets for Grav CMS
 
 - [Routing](#routing)
 
