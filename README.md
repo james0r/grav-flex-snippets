@@ -3,7 +3,12 @@
 
 A curated list of Flex Snippets for Grav CMS
 
+- [Intros](#intros)
 - [Routing](#routing)
+
+## Intros
+
+- [Getting Started with Flex Objects](https://gist.github.com/james0r/09bdd1bacfe1585d2890d0eee90b27dd)
 
 ## Routing
 
