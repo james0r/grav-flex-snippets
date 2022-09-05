@@ -20,4 +20,6 @@ A curated list of Flex Snippets for Grav CMS
 
 #### How do I get here?
 
-You can add your direct link to a blog article (or with [Github Gist](https://gist.github.com/)) using issues. Snippets of this repository (like Getting Started or Dynamic Routing) are edited using Pull Requests. Updates are welcome!
+See [CONTRIBUTING](/CONTRIBUTING.md). Snippets of this repository (like Getting Started or Dynamic Routing) you can edit using Pull Requests. 
+
+Updates are welcome!
